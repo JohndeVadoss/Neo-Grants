@@ -37,7 +37,7 @@ Technical grants are intended to fund Neo related projects in the following area
 
 The Neo protocol is primarily developed by the Neo Core Developer team and NGD Shanghai. 
 
-If you want to contribute to the Neo protocol, you can refer to the [Neo Core Developer Grants Program](). 
+If you want to contribute to the Neo protocol, you can refer to the Neo Core Developer Grants Program. 
 
 ### Tools & Infrastructure Development
 
@@ -47,11 +47,11 @@ For more specific information on the grant funding priorities, please view the [
 
 ### Research
 
-If you want to contribute to Research initiatives, you can apply for the [Neo Research Grants Program]().
+If you want to contribute to Research initiatives, you can apply for the Neo Research Grants Program.
 
 ### Security
 
-If you want to contribute to Security initiatives, you can apply for the [Neo Vulnerability Bounty Program]().
+If you want to contribute to Security initiatives, you can apply for the Neo Vulnerability Bounty Program.
 
 
 
