@@ -5,6 +5,7 @@ We kindly ask you to consider the following guidelines when you submit your proj
 The submission should contain the following information:
 
 - **Project name**
+- **Release date**
 - **Link to the open-source code/delivery**
 - **Basic [testing guide](#testing-guide)**
 - **A list of the [milestone deliverables](#milestone-deliverables)**
