@@ -42,8 +42,7 @@ Consensus Mechanism|[dBFT2.0](https://docs.neo.org/docs/en-us/basic/technology/d
 Virtual Machine|[NeoVM]()|
 Cross Chain|[Poly Network](https://github.com/polynetworks/docs)|
 Oracle|[*Built-in Oracle*]()|
-DID|[Seraph ID](https://www.seraphid.io), [Moonlight ID](https://moonlight.io/features/identity-management)|
-Name Service|[*NNS*]()|
+DID|[Moonlight ID](https://moonlight.io/features/identity-management)|
 Storage|[NeoFS](https://fs.neo.org)|
 
 
