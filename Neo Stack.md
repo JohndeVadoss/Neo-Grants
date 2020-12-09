@@ -61,7 +61,7 @@ Analytical Services|[]()|
 Smart Contract Development|C# VM - [neo-vm](https://github.com/neo-project/neo-vm)<br />C# compiler & framework - [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet)<br />Go VM & compiler - [neo-go](https://github.com/nspcc-dev/neo-go)<br />Python VM - [neo-python](https://github.com/CityOfZion/neo-python)<br />Python compiler -  [neo-boa](https://github.com/CityOfZion/neo3-boa)|
 dApp Framework|[NEO•ONE](https://neo-one.io)|Tools to provide easy development environment or playground for dApp
 IDE Plugins|[Neo Blockchain Toolkit](https://github.com/neo-project/neo-blockchain-toolkit/blob/master/quickstart.md)|Other popular IDE
-Online IDE|[NeoCompiler Eco](https://neocompiler.io), [NeoRay](https://neoray.nel.group/#/debug), [Neo IDE](https://github.com/everstake/neo-ide)|
+Online IDE|[NeoCompiler Eco](https://neocompiler.io), [NeoRay](https://neoray.nel.group/#/debug)|
 Smart Contract Security|[]()|Neo smart contract security library to identify vulnerabilities during compiling
 Node Cluster Service|[]()|Tools to provide more stable RPC service and also distribute requests
 Privacy|[]()|Any add-on plugins or infrastructures to  enrich privacy features for Neo
