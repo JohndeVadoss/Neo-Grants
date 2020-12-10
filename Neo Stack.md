@@ -53,7 +53,7 @@ Component|Existing Projects|Potentially interesting projects
 --|--|--
 Nodes|C# - [neo-node](https://github.com/neo-project/neo-node)<br />Golang - [neo-go](https://github.com/nspcc-dev/neo-go)<br />Python - [neo-python](https://github.com/CityOfZion/neo-python)|SPV or any light nodes implementation
 Performance Testing||Tools to provide performance testing for Neo nodes <br /> also visual dashboard for analyzing the result
-SDK|JavaScript - [neon-js](https://github.com/CityOfZion/neon-js)<br />Java/Android/Kotlin - [neow3j](https://neow3j.io/#/) <br />Golang - [neo-gogogo](https://github.com/neo-ngd/neo-gogogo)<br />Python - [neo-python](https://github.com/CityOfZion/neo-python)|iOS sdk
+SDK|JavaScript - [neon-js](https://github.com/CityOfZion/neon-js)<br />Java/Android/Kotlin - [neow3j](https://neow3j.io/#/)<br />Python - [neo-python](https://github.com/CityOfZion/neo-python)|iOS sdk
 Wallets and Extensions|[NeoLine](https://neoline.io), [O3](https://o3.network), [NEON](https://neonwallet.com), [Teemo](https://teemo.nel.group/index.html)|
 Explorer|[NeoTube](https://neotube.io), [NeoScan](https://neoscan.io), [Neo Tracker](https://neotracker.io), [NEL Scan](https://scan.nel.group)|
 Monitors|[Neo State](http://neostate.io/home), [NeoMon](http://monitor.cityofzion.io), [Neo Nodes](http://neonodes.io/#/)|
